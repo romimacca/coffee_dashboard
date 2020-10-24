@@ -1,0 +1,7 @@
+{
+  "name": "coffee_dashboard",
+  "private": true,
+  "dependencies": {
+    "highcharts": "^8.2.2"
+  }
+}
